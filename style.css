@@ -73,6 +73,9 @@
     text-align: justify;
     color: #828282;
   }
+  .hero_img {
+    width: 50%;
+}
   .hero_img img {
     width: 100%;
     height: 60vh;
